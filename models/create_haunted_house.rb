@@ -1,2 +1,2 @@
-class CreateHauntedHouse::Base[4.2]
+class CreateHauntedHouse < ActiveRecord::Base[4.2]
 end
